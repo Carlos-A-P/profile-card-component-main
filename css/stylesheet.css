@@ -39,6 +39,15 @@ body {
 	align-items: center;
 }
 
+.name {
+	display: flex;
+	align-items: baseline;
+}
+
+.name p {
+	margin-left: 10px;
+}
+
 .image img {
 	border-radius: 50%;
 	border: 5px white solid;
@@ -46,35 +55,37 @@ body {
 	margin-bottom: 20px;
 }
 
-span,
+p,
 .city,
 .subText {
 	font-weight: 400;
 	color: hsl(227, 10%, 46%);
+	margin: 1rem;
 }
 
-.city {
-	margin-top: 8px;
-}
-
-.name,
-.bottomContent {
+h1,
+h3 {
 	font-weight: 700;
 	font-size: 18px;
+	margin: 0px;
+}
+
+p {
+	margin: 0px;
 }
 
 .bottomContent {
 	display: flex;
 	justify-content: space-around;
 	border-top: 0.5px solid hsla(0, 0%, 59%, 0.3);
-	margin-top: 20px;
-	padding: 20px;
+	margin-top: 15px;
+	padding: 25px 20px 15px;
 	text-align: center;
 }
 
 .subText {
-	margin-top: 10px;
-	font-size: 12px;
+	margin-top: 5px;
+	font-size: 11px;
 	letter-spacing: 1px;
 }
 
