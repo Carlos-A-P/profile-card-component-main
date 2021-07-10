@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](img/Profile card Desktop image - final product.jpg)
+![result](https://user-images.githubusercontent.com/85038929/125146400-737d0e80-e0da-11eb-88fd-881ce7923e13.JPG)
 
 ## My process
 
