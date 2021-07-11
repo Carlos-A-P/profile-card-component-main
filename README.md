@@ -1,4 +1,4 @@
-# 3-column preview card component
+# Profile card component
 
 - Live website -(https://carlospwd-profile-card-component.netlify.app/)
 
